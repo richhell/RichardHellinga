@@ -5,7 +5,7 @@
 ### project44, Chicago, IL
 Lead Technical Writer 
 
-October 21 to Present
+October 21 to September 24
 
 - Wrote a successful business case for Paligo, a Component Content Management System (CCMS), so that the Technical Writing team could improve the speed and efficiency for developing, publishing, and maintaining documentation for both co-workers and customers.
 - Implemented Paligo as the tool for developing, publishing, and maintaining documentation for the Content Team.
