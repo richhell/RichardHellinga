@@ -13,7 +13,7 @@ October 21 to September 24
 - Managed the migration of content from Confluence into Paligo, and published in Zendesk.
 - As a member of the first cohort, completed the project44 Leadership U course for people managers run by LifeLabs.
 - Managed a small team of Technical Writers in their mission to revamp the Internal Knowledge Base (IKB), create API documentation, and develop user documentation for customer products such as the DriveView application and the Visibility Operations Center (VOC).
-- Developed and published the Movement User Guide. (Movement is project44’s real-time supply chain visibility platform). Have worked closely with the Product and Engineering Teams to update the Movement user documentation to coincide with the release schedule.
+- Developed and published the Movement User Guide. (Movement is project44’s real-time supply chain visibility platform). Worked closely with the Product and Engineering Teams to update the Movement user documentation to coincide with the release schedule.
 - Wrote the Release Notes for each Movement release.
 - Created videos using Videate (an automated video creation tool) for Movement use cases.
 - Developed and published the Network Management Center (NMC) User Guide, and created videos (using Videate) in English, French, Spanish, Italian, and Polish that demonstrate the NMC's features.
