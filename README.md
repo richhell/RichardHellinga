@@ -30,9 +30,50 @@ December 14 to September 21
 - Designed and implemented a survey of employees to better understand the relevance and usage of the Corporate Safety Manual in their work lives, in order to improve the structure and quality of information in the manual.
 - Built and maintained the Work Management Help site (using MadCap Flare), containing procedures and job aids for the service centers.
 
+### Solvoyo, Istanbul, Turkey
+Technical Writer - Independent Contractor
 
-## Section 2
+January 14 to December 14
+- Revised and expanded the Modeler Interface User Guide.
+-	Developed the Model Template Manual.
+-	Developed the Sales Driven Replenishment Planning (SDRP) Manual.
+-	Developed a data template document for a Solvoyo client. 
 
-### Subsection
+### Epson America, Inc., Long Beach, CA
+Technical Writer - Independent Contractor
 
-### Subsection
+March 07 to May 07
+- Developed the Quick Guide and online User’s Guide for the Epson Stylus Photo R280 Series printer.
+
+### Epson America, Inc., Long Beach, CA
+Technical Writer - Contractor
+
+January 05 to June 06
+-	Developed the Setup Guide, Basics Guide, Fax Guide, Packing Instructions, and online User’s Guide for the Epson AcuLaser CX11N/11NF.
+-	Developed the Basics Guide and online User’s Guide for the Epson Stylus C68 printer.
+-	Developed the Basics Guide and online User’s Guide for the Epson Stylus CX7800.
+-	Worked with graphic designers to develop the Start Here posters for the Epson Stylus CX7800 All-in-One and Epson Stylus C68 printer.
+-	Developed the Media Sheets for the Epson Paper packaging.
+-	Developed the Before You Begin poster and the Creating a Photo Book guide for Epson Storyteller.
+-	Observed and provided feedback on market research sessions for Epson products.
+
+### Children’s Oncology Group, (COG) Arcadia, CA
+Technical Writer
+
+December 02 to December 04
+
+- Developed the functional requirements for the following applications: IRB Manager, Manuscript Tracking, Reservation, Publications Manager. 
+-	Developed the online help (.CHM) for the Study Manager desktop client, used to create the web forms for the eRDES that collect data for studies of cancer treatments for children with cancer.  
+-	Developed the User Guide and the online help (WebHelp) for the Enhanced Remote Data Entry System (eRDES), a web-based application used by member institutions to enter and track data used for studies of cancer treatments for children with cancer.
+-	Conducted eRDES training sessions for new users at the COG group meetings. 
+-	Developed a training guide and conducted training sessions for COG employees on using TestTrack Pro, an issue and bug-tracking application. 
+
+### Education
+# University of Southern California, Los Angeles, CA
+Master of Professional Writing, December 2002
+
+# Elmhurst College, Elmhurst, IL
+B.S. English Literature
+
+Northern Illinois University, Dekalb, IL
+
