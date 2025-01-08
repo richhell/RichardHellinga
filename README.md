@@ -68,12 +68,12 @@ December 02 to December 04
 -	Conducted eRDES training sessions for new users at the COG group meetings. 
 -	Developed a training guide and conducted training sessions for COG employees on using TestTrack Pro, an issue and bug-tracking application. 
 
-### Education
-# University of Southern California, Los Angeles, CA
+## Education
+### University of Southern California, Los Angeles, CA
 Master of Professional Writing, December 2002
 
-# Elmhurst College, Elmhurst, IL
+### Elmhurst College, Elmhurst, IL
 B.S. English Literature
 
-Northern Illinois University, Dekalb, IL
+### Northern Illinois University, Dekalb, IL
 
